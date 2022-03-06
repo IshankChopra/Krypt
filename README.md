@@ -19,6 +19,6 @@ This Dapp is built using React, Solidity under the guidance of Adrian Hajdin </b
                                            5. Vite</br>
                                            6. Tailwind Css</br>
 
-# Demo
+# Demo Video
 
 https://user-images.githubusercontent.com/83704466/156924341-74aefafa-2df6-42d9-9f51-124821b863e9.mp4
