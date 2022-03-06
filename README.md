@@ -1,6 +1,9 @@
 # Krypt - A DAPP
+# Live Site Preview
+https://krypt-ether.netlify.app/
 # What it Does
-<b>Krypt</b> - A web3.0 <b> Dapp </b> used to send Ethers from one wallet to another in Real World
+<b>Krypt</b> - A web3.0 <b> Dapp </b> used to send Ethers from one wallet to another in Real World </br>
+Test on Ropsten Network
 <br>
 <br>
 
