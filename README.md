@@ -17,3 +17,4 @@ This Dapp is built using React, Solidity under the guidance of Adrian Hajdin </b
                                            3. Web3.0</br>
                                            4. Metamask</br>
                                            5. Vite</br>
+                                           6. Tailwind Css</br>
