@@ -1,1 +1,1 @@
-# Krypt
+# Krypt - A DAPP
